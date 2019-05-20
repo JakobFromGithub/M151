@@ -1,0 +1,11 @@
+C:\dev\TopTipf\TopTipf\TopTipf.API\bin\Debug\netcoreapp2.2\TopTipf.API.deps.json
+C:\dev\TopTipf\TopTipf\TopTipf.API\bin\Debug\netcoreapp2.2\TopTipf.API.runtimeconfig.json
+C:\dev\TopTipf\TopTipf\TopTipf.API\bin\Debug\netcoreapp2.2\TopTipf.API.runtimeconfig.dev.json
+C:\dev\TopTipf\TopTipf\TopTipf.API\bin\Debug\netcoreapp2.2\TopTipf.API.dll
+C:\dev\TopTipf\TopTipf\TopTipf.API\obj\Debug\netcoreapp2.2\TopTipf.API.csprojAssemblyReference.cache
+C:\dev\TopTipf\TopTipf\TopTipf.API\obj\Debug\netcoreapp2.2\TopTipf.API.csproj.CoreCompileInputs.cache
+C:\dev\TopTipf\TopTipf\TopTipf.API\obj\Debug\netcoreapp2.2\TopTipf.API.RazorAssemblyInfo.cache
+C:\dev\TopTipf\TopTipf\TopTipf.API\obj\Debug\netcoreapp2.2\TopTipf.API.RazorAssemblyInfo.cs
+C:\dev\TopTipf\TopTipf\TopTipf.API\obj\Debug\netcoreapp2.2\TopTipf.API.AssemblyInfoInputs.cache
+C:\dev\TopTipf\TopTipf\TopTipf.API\obj\Debug\netcoreapp2.2\TopTipf.API.AssemblyInfo.cs
+C:\dev\TopTipf\TopTipf\TopTipf.API\obj\Debug\netcoreapp2.2\TopTipf.API.RazorTargetAssemblyInfo.cache

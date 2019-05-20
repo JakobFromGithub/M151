@@ -1,2 +1,0 @@
-toptipf_admin : LeckerEssen
-toptipf_application : mmhCookies
